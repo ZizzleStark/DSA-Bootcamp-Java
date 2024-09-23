@@ -11,12 +11,12 @@
 6. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) 
 7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)  Revise Optimal Solution
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) Revise optimal solution
-9. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
+9. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)   Saw soln 23 sep
 10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
-11. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
+11. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)    Saw soln 23 sep
 12. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
-13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
-14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
+13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)      
+14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)   Saw soln 23 sep Sol(https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/solutions/431013/simple-fast-java-solution-with-explanation)
 15. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 16. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 17. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
