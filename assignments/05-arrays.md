@@ -2,6 +2,8 @@
 
 ## Submit the following on your Leetcode profile itself.
 
+## Do more Matrix Problems
+
 ### Easy
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
@@ -23,7 +25,7 @@
 18. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)   saw soln 24 sep Revise Optimal Sol.
 19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)    see logic of rotation by 90 degree
-21. [Two Sum](https://leetcode.com/problems/two-sum/)
+21. [Two Sum](https://leetcode.com/problems/two-sum/)    See Map Solution
 22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
