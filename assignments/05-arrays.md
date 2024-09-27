@@ -27,7 +27,7 @@
 20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)    see logic of rotation by 90 degree
 21. [Two Sum](https://leetcode.com/problems/two-sum/)    See Map Solution
 22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
-23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
+23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)  solved in 27 sep Revise All solutions
 24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 26. [Plus One](https://leetcode.com/problems/plus-one/)
