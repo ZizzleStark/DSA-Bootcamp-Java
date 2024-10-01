@@ -31,7 +31,7 @@
 24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 26. [Plus One](https://leetcode.com/problems/plus-one/)
-27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)       Concept Revise solved 29 Sep
 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 29. [Minimum Size Subarray Sum: Prefix Sum and Sliding Window](https://leetcode.com/problems/minimum-size-subarray-sum/solutions/3724641/2-approaches-100-fast-binary-serarch-sliding-window-easy-line-by-line-video-explanation/?envType=problem-list-v2&envId=prefix-sum)
 
